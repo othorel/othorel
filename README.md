@@ -7,13 +7,19 @@
 | [Piscine](https://github.com/othorel/Piscine) | [SHELL00](https://github.com/othorel/Piscine/tree/main/Shell00) | [SHELL01](https://github.com/othorel/Piscine/tree/main/Shell01) | [C00](https://github.com/othorel/Piscine/tree/main/C00) | [C01](https://github.com/othorel/Piscine/tree/main/C01) | [C02](https://github.com/othorel/Piscine/tree/main/C02) | [C03](https://github.com/othorel/Piscine/tree/main/C03) | [C04](https://github.com/othorel/Piscine/tree/main/C04) | [C05](https://github.com/othorel/Piscine/tree/main/C05) | [C06](https://github.com/othorel/Piscine/tree/main/C06) | [C07](https://github.com/othorel/Piscine/tree/main/C07) | [C08](https://github.com/othorel/Piscine/tree/main/C08) | [C09](https://github.com/othorel/Piscine/tree/main/C09) | [C10](https://github.com/othorel/Piscine/tree/main/C10) | [C11](https://github.com/othorel/Piscine/tree/main/C11) | [C12](https://github.com/othorel/Piscine/tree/main/C12) |
 |-------------------|-------------------|-------------------|-------------------|-------------------|-------------------|-------------------|-------------------|-------------------|-------------------|-------------------|-------------------|-------------------|-------------------|-------------------|-------------------|
 
-
+---
 
 
 # 🧑‍🎓 42 Common Core Student
 
 | **Circle 0** | **Circle 1** | **Circle 2** |
-|-----------|--------------|--------------|
+|--------------|--------------|--------------|
 | [libft](https://github.com/othorel/libft) | [Ft_Printf](https://github.com/othorel/ft_printf) <br> [Get_next_line](https://github.com/othorel/get_next_line) <br> [Born_to_be_root](https://github.com/othorel/42-Born2beroot) | [Fil_de_fer](https://github.com/othorel/Fil-De-Fer) |
+
+| **Exam 02** |
+|-------------|
+| [Exam_02](https://github.com/othorel/Exam-Rank-02) |
+
+---
 
 ![image](https://user-images.githubusercontent.com/58959408/157782696-8bc9ca49-ca61-4ab5-8b83-49c4e76c1a8f.svg)
