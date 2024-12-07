@@ -16,6 +16,8 @@
 |--------------|--------------|--------------|
 | [libft](https://github.com/othorel/libft) | [Ft_Printf](https://github.com/othorel/ft_printf) <br> [Get_next_line](https://github.com/othorel/get_next_line) <br> [Born_to_be_root](https://github.com/othorel/42-Born2beroot) | [Fil_de_fer](https://github.com/othorel/Fil-De-Fer) (in progress) |
 ---
+[![libft](https://raw.githubusercontent.com/leogaudin/42_project_badges/main/badges/libft_bonus_max.webp)](https://github.com/othorel/libft) [![printf](https://raw.githubusercontent.com/leogaudin/42_project_badges/main/badges/ft_printf_bonus_max.webp)](https://github.com/othorel/ft_printf)
+---
 | **Exam 02** |
 |-------------|
 | [Exam_02](https://github.com/othorel/Exam-Rank-02) (in progress) |
