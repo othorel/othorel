@@ -14,13 +14,13 @@
 
 | **Circle 0** | **Circle 1** | **Circle 2** |
 |--------------|--------------|--------------|
-| [libft](https://github.com/othorel/libft) <br> [libft_v2](https://github.com/othorel/Libft_V2) (whith ft_printf && GNL) | [Ft_Printf](https://github.com/othorel/ft_printf) <br> [Get_next_line](https://github.com/othorel/get_next_line) <br> [Born_to_be_root](https://github.com/othorel/42-Born2beroot) | [Fil_de_fer](https://github.com/othorel/Fil-De-Fer) (in progress) |
+| [libft](https://github.com/othorel/libft) <br> [libft_v2](https://github.com/othorel/Libft_V2) (whith ft_printf && GNL) | [Ft_Printf](https://github.com/othorel/ft_printf) <br> [Get_next_line](https://github.com/othorel/get_next_line) <br> [Born_to_be_root](https://github.com/othorel/42-Born2beroot) | [Fil_de_fer](https://github.com/othorel/Fil-De-Fer) (in progress) <br> [Push_Swap](https://github.com/othorel/Push_swap) |
 ---
-[![libft](https://raw.githubusercontent.com/leogaudin/42_project_badges/main/badges/libft_bonus_max.webp)](https://github.com/othorel/libft) [![printf](https://raw.githubusercontent.com/leogaudin/42_project_badges/main/badges/ft_printf.webp)](https://github.com/othorel/ft_printf) [![gnl](https://raw.githubusercontent.com/leogaudin/42_project_badges/main/badges/get_next_line_bonus_max.webp)](https://github.com/othorel/get_next_line) [![b2broot](https://raw.githubusercontent.com/leogaudin/42_project_badges/main/badges/born2beroot_bonus.webp)](https://github.com/othorel/42-Born2beroot)    [![fdf](https://raw.githubusercontent.com/leogaudin/42_project_badges/main/badges/fdf_bonus.webp)](https://github.com/othorel/Fil-De-Fer)
+[![libft](https://raw.githubusercontent.com/leogaudin/42_project_badges/main/badges/libft_bonus_max.webp)](https://github.com/othorel/libft) [![printf](https://raw.githubusercontent.com/leogaudin/42_project_badges/main/badges/ft_printf.webp)](https://github.com/othorel/ft_printf) [![gnl](https://raw.githubusercontent.com/leogaudin/42_project_badges/main/badges/get_next_line_bonus_max.webp)](https://github.com/othorel/get_next_line) [![b2broot](https://raw.githubusercontent.com/leogaudin/42_project_badges/main/badges/born2beroot_bonus.webp)](https://github.com/othorel/42-Born2beroot)    [![fdf](https://raw.githubusercontent.com/leogaudin/42_project_badges/main/badges/fdf_bonus.webp)](https://github.com/othorel/Fil-De-Fer) [![ps](https://github.com/leogaudin/42_project_badges/raw/main/badges/push_swap.webp)](https://github.com/othorel/Push_swap)
 ---
-| **Exam 02** |
+| **EXAMS** |
 |-------------|
-| [Exam_02](https://github.com/othorel/Exam-Rank-02) (in progress) |
+| [Exam_02](https://github.com/othorel/Exam-Rank-02) |
 
 ---
 
