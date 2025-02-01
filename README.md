@@ -22,8 +22,8 @@
 
 ---
 | **EXAMS** |
-|-------------|
-| [Exam_02](https://github.com/othorel/Exam-Rank-02)  [Exam_03](https://github.com/othorel/Exam-Rank-03)|
+|-----------|
+| [Exam_02](https://github.com/othorel/Exam-Rank-02)  [Exam_03](https://github.com/othorel/Exam-Rank-03) |
 
 ---
 
