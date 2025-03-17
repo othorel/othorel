@@ -9,6 +9,11 @@
 
 ---
 
+<p align="center">
+  <img src="https://badge.mediaplus.ma/binary/olthorel?1337Badge=off&UM6P=off" alt="Badge">
+</p>
+
+---
 
 # 🧑‍🎓 42 Common Core Student
 
