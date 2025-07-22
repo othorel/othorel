@@ -13,8 +13,8 @@
 
 # 🧑‍🎓 42 Common Core Student
 
-| **Circle 0** | **Circle 1** | **Circle 2** | **Circle 3** | **Circle 4** | **Circle 5** |
-|--------------|--------------|--------------|--------------|--------------|--------------|
+| **Circle 0** | **Circle 1** | **Circle 2** | **Circle 3** | **Circle 4** | **Circle 5** | **Circle 6** |
+|--------------|--------------|--------------|--------------|--------------|--------------|--------------|
 | [libft](https://github.com/othorel/libft) <br> [libft_custom](https://github.com/othorel/Libft_V2) <br> (with other ft) | [Ft_Printf](https://github.com/othorel/ft_printf) <br> [Get_next_line](https://github.com/othorel/get_next_line) <br> [Born_to_be_root](https://github.com/othorel/42-Born2beroot) | [Fil_de_fer](https://github.com/othorel/Fil-De-Fer) <br> [Push_Swap](https://github.com/othorel/Push_swap) <br> [Minitalk](https://github.com/othorel/minitalk) | [Philosophers](https://github.com/othorel/Philosophers) <br> [Minishell](https://github.com/othorel/minishell) | [NetPratice](https://github.com/othorel/NetPratice) <br> [MiniRT](https://github.com/othorel/miniRT) | [Webserv](https://github.com/othorel/Webserv) <br> [Inception](https://github.com/othorel/Inception)
 
 ---
