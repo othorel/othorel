@@ -38,8 +38,10 @@ I love learning new technologies, tackling challenging problems, and building pr
 ---
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/13/42_Logo.svg" alt="42 Logo" width="120" style="background-color:black"/>
+  <img src="https://github.com/othorel/othorel/blob/main/assets/logo42.png" alt="42 Logo" width="120"/>
 </p>
+
+---
 
 # 🏊 42 Piscine
 
