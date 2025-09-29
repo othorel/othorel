@@ -41,6 +41,8 @@ I love learning new technologies, tackling challenging problems, and building pr
   <img src="https://github.com/othorel/othorel/blob/main/assets/logo42.png" alt="42 Logo" width="120"/>
 </p>
 
+<img src="https://badge42.vercel.app/api/v2/olthorel/stats?cursusId=21" alt="42 stats for olthorel" />
+
 ---
 
 # 🏊 42 Piscine
