@@ -37,6 +37,10 @@ I love learning new technologies, tackling challenging problems, and building pr
 | My Portfolio | Personal portfolio React/Next.js, Node.js, Prisma & PostgreSQL | <a href="https://github.com/othorel/portfolio"><img src="https://github.com/othorel/portfolio/blob/main/frontend/public/projects/portfolio.png" width="50" alt="Portfolio Logo"></a> |
 ---
 
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/13/42_Logo.svg" alt="42 Logo" width="120" style="background-color:black"/>
+</p>
+
 # 🏊 42 Piscine
 
 ### Piscine Modules
