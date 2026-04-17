@@ -1,16 +1,18 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=140&text=Olivier%20Thorel&fontColor=E2E8F0&fontSize=46&desc=Fullstack%20Engineer%20%E2%80%A2%20React%20%2F%20Next.js%20%2F%20Node.js&descAlignY=70&descSize=18" />
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=38BDF8&center=true&vCenter=true&width=600&lines=Fullstack+Engineer;React+%2F+Next.js+%2F+Node.js;Building+real+products" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=20&duration=2800&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+real+products;SaaS+%26+scalable+systems;Clean+architecture+%26+DX+focused" />
 </p>
 
 ---
 
-## 🚀 About
+## About
 
-Fullstack engineer focused on building **real-world applications** with strong architecture and clean UX.
+Fullstack engineer focused on building **production-ready SaaS products** with modern frontend, scalable backend, and strong product thinking.
 
-Currently building **Flexitaf** — a platform connecting candidates and companies with advanced onboarding & verification workflows.
+Currently working on **Flexitaf** — a platform connecting candidates and companies through advanced onboarding, document management, and verification workflows.
 
 ---
 
@@ -18,76 +20,84 @@ Currently building **Flexitaf** — a platform connecting candidates and compani
 
 ### Languages
 
-| Language | Main Usage | Level |
-|----------|-----------|------|
-| TypeScript ✨ | Fullstack development | ⭐⭐⭐⭐⭐ |
+| Language | Main Usage | Proficiency |
+|----------|------------|-------------|
+| TypeScript ✨ | Fullstack applications | ⭐⭐⭐⭐⭐ |
 | JavaScript ⚡ | Frontend logic | ⭐⭐⭐⭐☆ |
-| C 🧠 | System & low-level | ⭐⭐⭐⭐☆ |
+| C 🧠 | System & algorithms | ⭐⭐⭐⭐☆ |
 | C++ ⚙️ | Advanced programming | ⭐⭐⭐☆☆ |
-| SQL 🗃️ | Data & queries | ⭐⭐⭐⭐☆ |
+| SQL 🗃️ | Data modeling & queries | ⭐⭐⭐⭐☆ |
 
 ---
 
 ### Frameworks & Tools
 
-| Category | Stack |
-|----------|------|
-| Frontend | ⚛️ React • ▲ Next.js • 🎨 Tailwind |
+| Category | Tools / Stack |
+|----------|--------------|
+| Frontend | ⚛️ React • ▲ Next.js • 🎨 Tailwind CSS |
 | Backend | 🟢 Node.js • 🧱 NestJS • ⚡ Fastify |
 | Database | 🐘 PostgreSQL • 🔷 Prisma |
-| DevOps | 🐳 Docker • 🧬 Git |
+| DevOps | 🐳 Docker • 🧬 Git • ⚙️ Turborepo |
 | Realtime | 🔌 WebSockets |
-| Other | 🧠 Turborepo • ⚙️ Monorepo |
+| Low-level | 🧠 C • ⚙️ C++ |
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🧩 Flexitaf
-Fullstack platform (React / Next.js / NestJS / Prisma)
+Fullstack SaaS platform.
 
-- Advanced onboarding (candidate / recruiter / company)
-- Document upload (S3 + presigned URLs)
-- Verification workflows & role logic
-- Clean architecture (monorepo)
+- Multi-role onboarding (candidate / recruiter / company)
+- Secure document upload (S3 + presigned URLs)
+- Verification workflows & business rules engine
+- Monorepo architecture with shared validation
 
 ---
 
 ### 💬 Diucorda
-Realtime chat app (Discord-like)
+Realtime chat application (Discord-like).
 
 - WebSockets (messages, typing, events)
-- Channels & DM system
-- Reactions & editing
+- Channels & direct messages
+- Reactions & editing system
 - Modern UI (Next.js + Tailwind)
+
+---
+
+## 🎓 42 Core Highlights
+
+- Minishell → Unix shell implementation  
+- Philosophers → concurrency & threading  
+- Webserv → HTTP server in C++  
+- Ft_transcendence → fullstack web project  
+
+👉 More projects on my repositories
 
 ---
 
 ## 📊 GitHub Insights
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=othorel&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=othorel&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=othorel&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=othorel&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="160" src="https://streak-stats.demolab.com?user=othorel&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🧩 Organizations
+## 🎯 Current Focus
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/orgs?username=othorel&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🎮 Activity
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=othorel&theme=tokyonight&hide_border=true"/>
-</p>
+- Building real SaaS products  
+- Backend architecture & scalability  
+- Clean frontend UX  
+- Developer experience & code quality  
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=120&section=footer"/>
+  <sub>Building products > collecting projects</sub>
 </p>
