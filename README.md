@@ -106,8 +106,10 @@ More available in repositories.
 
 ## GitHub Insights
 
+Most of my work is done on private repositories and production-grade systems.
+
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=othorel&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=othorel&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=othorel&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
