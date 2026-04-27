@@ -3,80 +3,109 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=20&duration=2800&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+real+products;SaaS+%26+scalable+systems;Clean+architecture+%26+DX+focused" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=20&duration=2800&pause=800&color=C9A24A&center=true&vCenter=true&width=650&lines=Building+real+products;SaaS+%26+scalable+systems;Clean+architecture+%26+DX+focused" />
 </p>
+
+---
+
+## Portfolio
+
+<p align="center">
+  <a href="https://othorel.flexitaf.fr" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20Portfolio-othorel.flexitaf.fr-C9A24A?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  Production-ready portfolio showcasing projects, architecture, and product thinking.
+</p>
+
+<!-- OPTIONNEL : ajoute une capture ici -->
+<!--
+<p align="center">
+  <img src="./public/portfolio-preview.png" alt="Portfolio preview" />
+</p>
+-->
 
 ---
 
 ## About
 
-Fullstack engineer focused on building **production-ready SaaS products** with modern frontend, scalable backend, and strong product thinking.
+Fullstack engineer focused on building **production-ready SaaS products**.
 
-Currently working on **Flexitaf** — a platform connecting candidates and companies through advanced onboarding, document management, and verification workflows.
+I design and develop complete systems:
+- modern frontend
+- scalable backend
+- structured business logic
+- real-world product workflows
+
+Currently working on a **platform connecting candidates and companies**, including onboarding flows, document management, and verification systems.
 
 ---
 
-## 🧠 Tech Stack
+## Tech Stack
 
 ### Languages
 
-| Language | Main Usage | Proficiency |
-|----------|------------|-------------|
-| TypeScript ✨ | Fullstack applications | ⭐⭐⭐⭐⭐ |
-| JavaScript ⚡ | Frontend logic | ⭐⭐⭐⭐☆ |
-| C 🧠 | System & algorithms | ⭐⭐⭐⭐☆ |
-| C++ ⚙️ | Advanced programming | ⭐⭐⭐☆☆ |
-| SQL 🗃️ | Data modeling & queries | ⭐⭐⭐⭐☆ |
+| Language   | Main Usage                  | Proficiency |
+|------------|---------------------------|-------------|
+| TypeScript | Fullstack applications     | Expert      |
+| JavaScript | Frontend logic             | Advanced    |
+| C          | System programming         | Advanced    |
+| C++        | Low-level / performance    | Intermediate|
+| SQL        | Data modeling & queries    | Advanced    |
 
 ---
 
 ### Frameworks & Tools
 
-| Category | Tools / Stack |
-|----------|--------------|
-| Frontend | ⚛️ React • ▲ Next.js • 🎨 Tailwind CSS |
-| Backend | 🟢 Node.js • 🧱 NestJS • ⚡ Fastify |
-| Database | 🐘 PostgreSQL • 🔷 Prisma |
-| DevOps | 🐳 Docker • 🧬 Git • ⚙️ Turborepo |
-| Realtime | 🔌 WebSockets |
-| Low-level | 🧠 C • ⚙️ C++ |
+| Category   | Stack |
+|------------|------|
+| Frontend   | React · Next.js · Tailwind CSS |
+| Backend    | Node.js · NestJS · Fastify |
+| Database   | PostgreSQL · Prisma |
+| DevOps     | Docker · Git · Turborepo |
+| Realtime   | WebSockets |
+| Low-level  | C · C++ |
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🧩 Flexitaf
-Fullstack SaaS platform.
+### SaaS Platform
+
+Fullstack application focused on real-world workflows.
 
 - Multi-role onboarding (candidate / recruiter / company)
 - Secure document upload (S3 + presigned URLs)
-- Verification workflows & business rules engine
+- Verification system with business rules
 - Monorepo architecture with shared validation
 
 ---
 
-### 💬 Diucorda
-Realtime chat application (Discord-like).
+### Realtime Chat Application
 
-- WebSockets (messages, typing, events)
-- Channels & direct messages
-- Reactions & editing system
-- Modern UI (Next.js + Tailwind)
+Modern messaging platform.
 
----
-
-## 🎓 42 Core Highlights
-
-- Minishell → Unix shell implementation  
-- Philosophers → concurrency & threading  
-- Webserv → HTTP server in C++  
-- Ft_transcendence → fullstack web project  
-
-👉 More projects on my repositories
+- WebSockets (messages, events, presence)
+- Channels and direct messaging
+- Reactions and message updates
+- Clean UI with Next.js and Tailwind
 
 ---
 
-## 📊 GitHub Insights
+## 42 Core Highlights
+
+- Minishell — Unix shell implementation  
+- Philosophers — concurrency and threading  
+- Webserv — HTTP server in C++  
+- Fullstack web application project  
+
+More available in repositories.
+
+---
+
+## GitHub Insights
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=othorel&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
@@ -89,15 +118,15 @@ Realtime chat application (Discord-like).
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
-- Building real SaaS products  
-- Backend architecture & scalability  
-- Clean frontend UX  
-- Developer experience & code quality  
+- Building scalable SaaS systems  
+- Backend architecture and data modeling  
+- Clean and efficient frontend UX  
+- Developer experience and maintainability  
 
 ---
 
 <p align="center">
-  <sub>Building products > collecting projects</sub>
+  <sub>Building products over showcasing projects</sub>
 </p>
