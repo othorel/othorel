@@ -20,12 +20,11 @@
   Production-ready portfolio showcasing projects, architecture, and product thinking.
 </p>
 
-<!-- OPTIONNEL : ajoute une capture ici -->
-<!--
 <p align="center">
-  <img src="./public/portfolio-preview.png" alt="Portfolio preview" />
+  <a href="https://othorel.flexitaf.fr" target="_blank">
+    <img src="./assets/portfolio-preview.png" alt="Portfolio preview" width="900" />
+  </a>
 </p>
--->
 
 ---
 
