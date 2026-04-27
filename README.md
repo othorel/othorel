@@ -22,7 +22,7 @@
 
 <p align="center">
   <a href="https://othorel.flexitaf.fr" target="_blank">
-    <img src="./assets/portfolio-preview.png" alt="Portfolio preview" width="900" />
+    <img src="./assets/portfolio-preview.png" alt="Portfolio preview" width="700" />
   </a>
 </p>
 
