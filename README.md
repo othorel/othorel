@@ -1,28 +1,34 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=140&text=Olivier%20Thorel&fontColor=E2E8F0&fontSize=46&desc=Fullstack%20Engineer%20%E2%80%A2%20React%20%2F%20Next.js%20%2F%20Node.js&descAlignY=70&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=140&text=Olivier%20Thorel&fontColor=E2E8F0&fontSize=46&desc=Fullstack%20Engineer%20%E2%80%A2%20SaaS%20Products%20%E2%80%A2%20Typed%20Systems&descAlignY=70&descSize=18" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=20&duration=2800&pause=800&color=C9A24A&center=true&vCenter=true&width=650&lines=Building+real+products;SaaS+%26+scalable+systems;Clean+architecture+%26+DX+focused" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=20&duration=2800&pause=800&color=C9A24A&center=true&vCenter=true&width=650&lines=Building+real+products;SaaS+%26+scalable+systems;Clean+architecture+%26+typed+workflows;Product-minded+engineering" />
 </p>
 
 ---
 
-## Portfolio
+## Project Hub
 
 <p align="center">
-  <a href="https://othorel.flexitaf.fr" target="_blank">
-    <img src="https://img.shields.io/badge/Visit%20Portfolio-othorel.flexitaf.fr-C9A24A?style=for-the-badge&logo=vercel&logoColor=white" />
+  <a href="https://othorel.fr" target="_blank">
+    <img src="https://img.shields.io/badge/Project%20Hub-othorel.fr-C9A24A?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://portfolio.othorel.fr" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-portfolio.othorel.fr-1F2937?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  </a>
+  <a href="https://seriematch.othorel.fr" target="_blank">
+    <img src="https://img.shields.io/badge/SerieMatch-Live-7C3AED?style=for-the-badge&logo=react&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  Production-ready portfolio showcasing projects, architecture, and product thinking.
+  My main domain is now a visual gateway to my portfolio, live products, experiments and social links.
 </p>
 
 <p align="center">
-  <a href="https://othorel.flexitaf.fr" target="_blank">
-    <img src="./assets/portfolio-preview.png" alt="Portfolio preview" width="700" />
+  <a href="https://othorel.fr" target="_blank">
+    <img src="./assets/portfolio-preview.png" alt="Project hub preview" width="700" />
   </a>
 </p>
 
@@ -30,15 +36,17 @@
 
 ## About
 
-Fullstack engineer focused on building **production-ready SaaS products**.
+Fullstack engineer focused on building **production-ready SaaS products** with clean architecture, strong typing and real-world product workflows.
 
-I design and develop complete systems:
-- modern frontend
-- scalable backend
+I design and develop complete systems across the stack:
+
+- modern frontend interfaces
+- scalable backend APIs
 - structured business logic
-- real-world product workflows
+- typed contracts and shared validation
+- real-world onboarding, document and admin workflows
 
-Currently working on a **platform connecting candidates and companies**, including onboarding flows, document management, and verification systems.
+Currently working on **Flexitaf**, a recruitment and mission management SaaS focused on onboarding, document validation and administrative workflow automation.
 
 ---
 
@@ -47,58 +55,87 @@ Currently working on a **platform connecting candidates and companies**, includi
 ### Languages
 
 | Language   | Main Usage                  | Proficiency |
-|------------|---------------------------|-------------|
-| TypeScript | Fullstack applications     | Expert      |
-| JavaScript | Frontend logic             | Advanced    |
-| C          | System programming         | Advanced    |
-| C++        | Low-level / performance    | Intermediate|
-| SQL        | Data modeling & queries    | Advanced    |
+|------------|-----------------------------|-------------|
+| TypeScript | Fullstack applications       | Expert      |
+| JavaScript | Frontend logic               | Advanced    |
+| C          | System programming           | Advanced    |
+| C++        | Low-level / performance      | Intermediate|
+| SQL        | Data modeling and queries    | Advanced    |
 
 ---
 
 ### Frameworks & Tools
 
-| Category   | Stack |
-|------------|------|
-| Frontend   | React · Next.js · Tailwind CSS |
-| Backend    | Node.js · NestJS · Fastify |
-| Database   | PostgreSQL · Prisma |
-| DevOps     | Docker · Git · Turborepo |
-| Realtime   | WebSockets |
-| Low-level  | C · C++ |
+| Category     | Stack |
+|--------------|-------|
+| Frontend     | React · Next.js · Tailwind CSS · shadcn/ui |
+| Backend      | Node.js · NestJS · Fastify |
+| Database     | PostgreSQL · Prisma |
+| Validation   | Zod · shared TypeScript contracts |
+| DevOps       | Docker · Git · PM2 · Nginx · VPS deployment |
+| Search       | Meilisearch |
+| Realtime     | WebSockets |
+| Low-level    | C · C++ |
 
 ---
 
 ## Featured Projects
 
-### SaaS Platform
+### Flexitaf
 
-Fullstack application focused on real-world workflows.
+Recruitment and mission management SaaS currently in progress.
 
-- Multi-role onboarding (candidate / recruiter / company)
-- Secure document upload (S3 + presigned URLs)
-- Verification system with business rules
-- Monorepo architecture with shared validation
+- Multi-role onboarding flows
+- Secure document upload and validation
+- Admin review and decision workflows
+- Company, recruiter and candidate logic
+- Shared business rules between frontend and backend
+- Typed fullstack architecture with Next.js, NestJS, Prisma and PostgreSQL
+
+<p>
+  <a href="https://flexitaf.fr" target="_blank">
+    <img src="https://img.shields.io/badge/Flexitaf-In%20progress-C9A24A?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### SerieMatch
+
+Fullstack series discovery app focused on personalized recommendations.
+
+- Account creation and authentication
+- Preference questionnaire based on tastes, platforms and viewing mood
+- Searchable catalogue powered by Meilisearch
+- Personal library with watch statuses
+- Scoring-based recommendation system
+- TMDB-powered metadata enrichment
+
+<p>
+  <a href="https://seriematch.othorel.fr" target="_blank">
+    <img src="https://img.shields.io/badge/SerieMatch-Live-7C3AED?style=for-the-badge&logo=react&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 ### Realtime Chat Application
 
-Modern messaging platform.
+Modern messaging platform focused on real-time interactions.
 
-- WebSockets (messages, events, presence)
+- WebSockets for messages, events and presence
 - Channels and direct messaging
 - Reactions and message updates
-- Clean UI with Next.js and Tailwind
+- Clean UI with Next.js and Tailwind CSS
 
 ---
 
 ## 42 Core Highlights
 
-- Minishell — Unix shell implementation  
-- Philosophers — concurrency and threading  
-- Webserv — HTTP server in C++  
-- Fullstack web application project  
+- Minishell — Unix shell implementation
+- Philosophers — concurrency and threading
+- Webserv — HTTP server in C++
+- Fullstack web application project
 
 More available in repositories.
 
@@ -121,10 +158,12 @@ Most of my work is done on private repositories and production-grade systems.
 
 ## Current Focus
 
-- Building scalable SaaS systems  
-- Backend architecture and data modeling  
-- Clean and efficient frontend UX  
-- Developer experience and maintainability  
+- Building scalable SaaS systems
+- Backend architecture and data modeling
+- Clean and efficient frontend UX
+- Typed fullstack workflows
+- Developer experience and maintainability
+- VPS deployment and production operations
 
 ---
 
