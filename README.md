@@ -20,15 +20,18 @@
   <a href="https://seriematch.othorel.fr" target="_blank">
     <img src="https://img.shields.io/badge/SerieMatch-Live-7C3AED?style=for-the-badge&logo=react&logoColor=white" />
   </a>
+  <a href="https://flexitaf.fr" target="_blank">
+    <img src="https://img.shields.io/badge/Flexitaf-In%20progress-C9A24A?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
-  My main domain is now a visual gateway to my portfolio, live products, experiments and social links.
+  My main domain is now a visual gateway to my portfolio, live products, experiments and technical playgrounds.
 </p>
 
 <p align="center">
   <a href="https://othorel.fr" target="_blank">
-    <img src="./assets/portfolio-preview.png" alt="Project hub preview" width="700" />
+    <img src="./assets/project-hub-preview.png" alt="Project hub preview" width="700" />
   </a>
 </p>
 
@@ -54,28 +57,26 @@ Currently working on **Flexitaf**, a recruitment and mission management SaaS foc
 
 ### Languages
 
-| Language   | Main Usage                  | Proficiency |
-|------------|-----------------------------|-------------|
-| TypeScript | Fullstack applications       | Expert      |
-| JavaScript | Frontend logic               | Advanced    |
-| C          | System programming           | Advanced    |
-| C++        | Low-level / performance      | Intermediate|
-| SQL        | Data modeling and queries    | Advanced    |
-
----
+| Language   | Main Usage               | Proficiency  |
+|------------|--------------------------|--------------|
+| TypeScript | Fullstack applications    | Expert       |
+| JavaScript | Frontend logic            | Advanced     |
+| C          | System programming        | Advanced     |
+| C++        | Low-level / performance   | Intermediate |
+| SQL        | Data modeling and queries | Advanced     |
 
 ### Frameworks & Tools
 
-| Category     | Stack |
-|--------------|-------|
-| Frontend     | React · Next.js · Tailwind CSS · shadcn/ui |
-| Backend      | Node.js · NestJS · Fastify |
-| Database     | PostgreSQL · Prisma |
-| Validation   | Zod · shared TypeScript contracts |
-| DevOps       | Docker · Git · PM2 · Nginx · VPS deployment |
-| Search       | Meilisearch |
-| Realtime     | WebSockets |
-| Low-level    | C · C++ |
+| Category   | Stack |
+|------------|-------|
+| Frontend   | React · Next.js · Tailwind CSS · shadcn/ui |
+| Backend    | Node.js · NestJS · Fastify |
+| Database   | PostgreSQL · Prisma |
+| Validation | Zod · shared TypeScript contracts |
+| DevOps     | Docker · Git · PM2 · Nginx · VPS deployment |
+| Search     | Meilisearch |
+| Realtime   | WebSockets |
+| Low-level  | C · C++ |
 
 ---
 
@@ -146,12 +147,13 @@ More available in repositories.
 Most of my work is done on private repositories and production-grade systems.
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=othorel&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=othorel&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://streak-stats.demolab.com?user=othorel&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img height="160" src="https://streak-stats.demolab.com?user=othorel&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/othorel?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/Public%20repositories-GitHub-1F2937?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
